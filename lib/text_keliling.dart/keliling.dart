@@ -125,7 +125,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       print('Kolom Ke 1 Tidak Sama');
                     });
                   }
-                }, child: buttonvalid== true? Text('Hitung'): Text('Gacha Again')),
+                }, child: buttonvalid== true? Text('Hitung'): Text('Gacha Againn')),
               ),
               Container(
                 margin: EdgeInsets.all(30),
